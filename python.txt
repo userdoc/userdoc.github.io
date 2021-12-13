@@ -225,7 +225,7 @@ C) Multiplication
 D) Division
 E) Modulo Division
 F) Integer division
-G) Exponentiation (Возведение в степень)
+G) Exponentiation (Г‚Г®Г§ГўГҐГ¤ГҐГ­ГЁГҐ Гў Г±ГІГҐГЇГҐГ­Гј)
 
 $$$ 26
 Arithmetic operations. Operator (-):
@@ -235,7 +235,7 @@ C) Multiplication
 D) Division
 E) Modulo Division
 F) Integer division
-G) Exponentiation (Возведение в степень)
+G) Exponentiation (Г‚Г®Г§ГўГҐГ¤ГҐГ­ГЁГҐ Гў Г±ГІГҐГЇГҐГ­Гј)
 
 $$$ 27
 Arithmetic operations. Operator (*):
@@ -245,7 +245,7 @@ B) Subtraction
 D) Division
 E) Modulo Division
 F) Integer division
-G) Exponentiation (Возведение в степень)
+G) Exponentiation (Г‚Г®Г§ГўГҐГ¤ГҐГ­ГЁГҐ Гў Г±ГІГҐГЇГҐГ­Гј)
 
 $$$ 28
 Arithmetic operations. Operator (/):
@@ -255,7 +255,7 @@ C) Multiplication
 +D) Division
 E) Modulo Division
 F) Integer division
-G) Exponentiation (Возведение в степень)
+G) Exponentiation (Г‚Г®Г§ГўГҐГ¤ГҐГ­ГЁГҐ Гў Г±ГІГҐГЇГҐГ­Гј)
 
 $$$ 29
 Arithmetic operations. Operator (%):
@@ -265,7 +265,7 @@ C) Multiplication
 D) Division
 +E) Modulo Division
 F) Integer division
-G) Exponentiation (Возведение в степень)
+G) Exponentiation (Г‚Г®Г§ГўГҐГ¤ГҐГ­ГЁГҐ Гў Г±ГІГҐГЇГҐГ­Гј)
 
 $$$ 30
 Arithmetic operations. Operator (//):
@@ -275,7 +275,7 @@ C) Multiplication
 D) Division
 E) Modulo Division
 +F) Integer division
-G) Exponentiation (Возведение в степень)
+G) Exponentiation (Г‚Г®Г§ГўГҐГ¤ГҐГ­ГЁГҐ Гў Г±ГІГҐГЇГҐГ­Гј)
 
 $$$ 31
 Arithmetic operations. Operator (**):
@@ -285,7 +285,7 @@ C) Multiplication
 D) Division
 E) Modulo Division
 F) Integer division
-+G) Exponentiation (Возведение в степень)
++G) Exponentiation (Г‚Г®Г§ГўГҐГ¤ГҐГ­ГЁГҐ Гў Г±ГІГҐГЇГҐГ­Гј)
 
 $$$ 32
 Comparing values in Python 3. The operator (= =) used to compare two operands:
@@ -298,7 +298,7 @@ F) Less than or equal
 
 $$$ 33
 Comparing values in Python 3. The operator (!= ) used to compare two operands:
-двух операндов:
+Г¤ГўГіГµ Г®ГЇГҐГ°Г Г­Г¤Г®Гў:
 A) Equality
 +B) Inequality
 C) More
@@ -352,7 +352,7 @@ E) Logical OR
 F) Logical NOT
 
 $$$ 39
-Оценочная логика в Python 3. Logical operators that have a value of a logical (Boolean) type, i.e. True or False: 
+ГЋГ¶ГҐГ­Г®Г·Г­Г Гї Г«Г®ГЈГЁГЄГ  Гў Python 3. Logical operators that have a value of a logical (Boolean) type, i.e. True or False: 
 A) Equality
 B) Inequality
 C) More
@@ -389,7 +389,7 @@ F) Logical NOT
 
 $$$ 43
 Python.  A term for describing a change in the order of operators in a program:
-+A) Сontrol flow   
++A) Г‘ontrol flow   
 B) Change case
 C) Concatenation
 D) Delete the space
@@ -398,7 +398,7 @@ F) Logical NOT
 
 $$$ 44
 Python.  Instructions that allow you to build logical conditions depending on certain conditions:
-A) Сontrol flow   
+A) Г‘ontrol flow   
 +B) Conditional expressions
 C) Concatenation
 D) Delete the space
@@ -407,7 +407,7 @@ F) Logical NOT
 
 $$$ 45
 Python.  Logical Operator - Inverse:
-A) Сontrol flow   
+A) Г‘ontrol flow   
 B) Conditional expressions
 C) Concatenation
 D) Delete the space
@@ -415,10 +415,10 @@ E) Logical OR
 +F) Logical NOT
 
 $$$ 46
-Python.  Instructions, if the condition is true, then the block of expressions “if-block” is executed, otherwise another block of expressions “else-block” is executed:
+Python.  Instructions, if the condition is true, then the block of expressions вЂњif-blockвЂќ is executed, otherwise another block of expressions вЂњelse-blockвЂќ is executed:
 A) Control flow   
 B) Loop 
-+C) if – elif - else
++C) if вЂ“ elif - else
 D) for 
 E) while
 F) print ()
@@ -426,10 +426,10 @@ G) input ()
 H) #
 
 $$$ 47
-Python.  Оператор комментариев:
+Python.  ГЋГЇГҐГ°Г ГІГ®Г° ГЄГ®Г¬Г¬ГҐГ­ГІГ Г°ГЁГҐГў:
 A) Control flow   
 B) Loop 
-C) if – elif - else
+C) if вЂ“ elif - else
 D) for 
 E) while
 F) print ()
@@ -440,7 +440,7 @@ $$$ 48
 Python.  An operator that repeatedly executes a block of commands until some condition is run:
 A) Control flow   
 B) Comments
-C) if – elif - else
+C) if вЂ“ elif - else
 D) for 
 +E) while
 F) print ()
@@ -451,7 +451,7 @@ $$$ 49
 Python.  A loop statement that iterates over an iterable object (such as a line or list), and executes the loop body during each pass:
 A) Control flow   
 B) Comments
-C) if – elif - else
+C) if вЂ“ elif - else
 +D) for -in
 E) while 
 F) print ()
@@ -462,7 +462,7 @@ $$$ 50
 Python.  Loop statement that is designed to interrupt the loop:
 A) Control flow   
 B) Comments
-C) if – elif – else
+C) if вЂ“ elif вЂ“ else
 D) for -in
 E) while 
 F) print ()
@@ -472,8 +472,8 @@ G) input ()
 $$$ 51
 Python.  An operator that allows you to skip all the remaining commands in the current block of the loop and continue with the next iteration of the loop:
 A) Control flow      
-+B) Сontinue 
-C) if – elif – else
++B) Г‘ontinue 
+C) if вЂ“ elif вЂ“ else
 D) for -in
 E) while 
 F) print ()
@@ -483,8 +483,8 @@ H) break
 $$$ 52
 Python.  Print statement:
 A) Control flow      
-B) Сontinue 
-C) if – elif – else
+B) Г‘ontinue 
+C) if вЂ“ elif вЂ“ else
 D) for -in
 E) while 
 +F) print ()
@@ -494,8 +494,8 @@ H) break
 $$$ 53
 Python.  Input operator:
 A) Control flow      
-B) Сontinue 
-C) if – elif – else
+B) Г‘ontinue 
+C) if вЂ“ elif вЂ“ else
 D) for -in
 E) while 
 F) print ()
@@ -506,7 +506,7 @@ $$$ 54
 Python.  Instructions, where some operators can be executed repeatedly depending on certain conditions:
 A) Control flow      
 +B) Loop 
-C) if – elif – else
+C) if вЂ“ elif вЂ“ else
 D) for -in
 E) while 
 F) print ()
@@ -674,7 +674,7 @@ F) Variable
 G) Expression
 
 $$$ 71
-Python. The type of arguments that are a «name-value» pair passed to the function:
+Python. The type of arguments that are a В«name-valueВ» pair passed to the function:
 A) Positional Arguments
 +B) Named Arguments
 C) String
@@ -694,7 +694,7 @@ F) Variable
 G) Expression
 
 $$$ 73
-Python. Data structures, which are a collection of «key-value» pairs. Each key is associated with a certain value, and the program can get the value associated with the given key:
+Python. Data structures, which are a collection of В«key-valueВ» pairs. Each key is associated with a certain value, and the program can get the value associated with the given key:
 A) Positional Arguments
 +B) Dictionary
 C) String
@@ -925,86 +925,86 @@ F) Interpreter
 
 $$$ 96
 The working line of the terminal application; used to enter system commands and run programs:
-+A) Командная строка (command line) 
-B) Комментарий (comment) 
-C) Компилятор (compiler) 
-D) Литерал (literal)
-E) Идентификатор (identifier) 
-F) Интерпретатор (interpreter) 
-G) Исходный код (source code) 
++A) ГЉГ®Г¬Г Г­Г¤Г­Г Гї Г±ГІГ°Г®ГЄГ  (command line) 
+B) ГЉГ®Г¬Г¬ГҐГ­ГІГ Г°ГЁГ© (comment) 
+C) ГЉГ®Г¬ГЇГЁГ«ГїГІГ®Г° (compiler) 
+D) Г‹ГЁГІГҐГ°Г Г« (literal)
+E) Г€Г¤ГҐГ­ГІГЁГґГЁГЄГ ГІГ®Г° (identifier) 
+F) Г€Г­ГІГҐГ°ГЇГ°ГҐГІГ ГІГ®Г° (interpreter) 
+G) Г€Г±ГµГ®Г¤Г­Г»Г© ГЄГ®Г¤ (source code) 
 
 $$$ 97
 Explanatory text (ignored by the compiler) to help the reader understand the purpose of the code:
-A) Командная строка (command line)
-+B) Комментарий (comment) 
-C) Компилятор (compiler) 
-D) Литерал (literal)
-E) Идентификатор (identifier) 
-F) Интерпретатор (interpreter) 
-G) Исходный код (source code) 
+A) ГЉГ®Г¬Г Г­Г¤Г­Г Гї Г±ГІГ°Г®ГЄГ  (command line)
++B) ГЉГ®Г¬Г¬ГҐГ­ГІГ Г°ГЁГ© (comment) 
+C) ГЉГ®Г¬ГЇГЁГ«ГїГІГ®Г° (compiler) 
+D) Г‹ГЁГІГҐГ°Г Г« (literal)
+E) Г€Г¤ГҐГ­ГІГЁГґГЁГЄГ ГІГ®Г° (identifier) 
+F) Г€Г­ГІГҐГ°ГЇГ°ГҐГІГ ГІГ®Г° (interpreter) 
+G) Г€Г±ГµГ®Г¤Г­Г»Г© ГЄГ®Г¤ (source code) 
 
 $$$ 98
 A program that converts the code of a high-level language, such as Python, into low-level code, such as the code of a Python virtual machine:
-A) Командная строка (command line)
-B) Комментарий (comment) 
-+C) Компилятор (compiler) 
-D) Литерал (literal)
-E) Идентификатор (identifier) 
-F) Интерпретатор (interpreter) 
-G) Исходный код (source code) 
+A) ГЉГ®Г¬Г Г­Г¤Г­Г Гї Г±ГІГ°Г®ГЄГ  (command line)
+B) ГЉГ®Г¬Г¬ГҐГ­ГІГ Г°ГЁГ© (comment) 
++C) ГЉГ®Г¬ГЇГЁГ«ГїГІГ®Г° (compiler) 
+D) Г‹ГЁГІГҐГ°Г Г« (literal)
+E) Г€Г¤ГҐГ­ГІГЁГґГЁГЄГ ГІГ®Г° (identifier) 
+F) Г€Г­ГІГҐГ°ГЇГ°ГҐГІГ ГІГ®Г° (interpreter) 
+G) Г€Г±ГµГ®Г¤Г­Г»Г© ГЄГ®Г¤ (source code) 
 
 $$$ 99
 Textual representation of the values of the embedded numeric and string data types in the source code, such as 123, Hello, and True:
-A) Командная строка (command line)
-B) Комментарий (comment) 
-C) Компилятор (compiler) 
-+D) Литерал (literal) 
-E) Идентификатор (identifier) 
-F) Интерпретатор (interpreter) 
-G) Исходный код (source code) 
+A) ГЉГ®Г¬Г Г­Г¤Г­Г Гї Г±ГІГ°Г®ГЄГ  (command line)
+B) ГЉГ®Г¬Г¬ГҐГ­ГІГ Г°ГЁГ© (comment) 
+C) ГЉГ®Г¬ГЇГЁГ«ГїГІГ®Г° (compiler) 
++D) Г‹ГЁГІГҐГ°Г Г« (literal) 
+E) Г€Г¤ГҐГ­ГІГЁГґГЁГЄГ ГІГ®Г° (identifier) 
+F) Г€Г­ГІГҐГ°ГЇГ°ГҐГІГ ГІГ®Г° (interpreter) 
+G) Г€Г±ГµГ®Г¤Г­Г»Г© ГЄГ®Г¤ (source code) 
 
 $$$ 100
 File with extension .py, structured so that its tools can be reused in other Python programs:
-A) Командная строка (command line)
-B) Комментарий (comment) 
-C) Компилятор (compiler) 
-D) Литерал (literal) 
-+E) Модуль (module) 
-F) Интерпретатор (interpreter) 
-G) Исходный код (source code) 
+A) ГЉГ®Г¬Г Г­Г¤Г­Г Гї Г±ГІГ°Г®ГЄГ  (command line)
+B) ГЉГ®Г¬Г¬ГҐГ­ГІГ Г°ГЁГ© (comment) 
+C) ГЉГ®Г¬ГЇГЁГ«ГїГІГ®Г° (compiler) 
+D) Г‹ГЁГІГҐГ°Г Г« (literal) 
++E) ГЊГ®Г¤ГіГ«Гј (module) 
+F) Г€Г­ГІГҐГ°ГЇГ°ГҐГІГ ГІГ®Г° (interpreter) 
+G) Г€Г±ГµГ®Г¤Г­Г»Г© ГЄГ®Г¤ (source code) 
 
 $$$ 101
 Data type - a set of elements following in a given order, indicated by square brackets   [ ]:  
-A) Integer (Целые числа).
-B) Float (Вещественные числа). 
-C) String (Строка)
-+D) List (Список).  
-E) Tuple (Кортеж). 
-F) Set (Множество).  
-G) Dictionary (Словарь).
-H) Logical (Логические значения).
+A) Integer (Г–ГҐГ«Г»ГҐ Г·ГЁГ±Г«Г ).
+B) Float (Г‚ГҐГ№ГҐГ±ГІГўГҐГ­Г­Г»ГҐ Г·ГЁГ±Г«Г ). 
+C) String (Г‘ГІГ°Г®ГЄГ )
++D) List (Г‘ГЇГЁГ±Г®ГЄ).  
+E) Tuple (ГЉГ®Г°ГІГҐГ¦). 
+F) Set (ГЊГ­Г®Г¦ГҐГ±ГІГўГ®).  
+G) Dictionary (Г‘Г«Г®ГўГ Г°Гј).
+H) Logical (Г‹Г®ГЈГЁГ·ГҐГ±ГЄГЁГҐ Г§Г­Г Г·ГҐГ­ГЁГї).
 
 $$$ 102
-Immutable (неизменяемые) Lists:  
-A) Integer (Целые числа).
-B) Float (Вещественные числа). 
-C) String (Строка)
-D) List (Список).  
-+E) Tuple (Кортеж). 
-+F) Set (Множество).  
-+G) Dictionary (Словарь).
-H) Logical (Логические значения).
+Immutable (Г­ГҐГЁГ§Г¬ГҐГ­ГїГҐГ¬Г»ГҐ) Lists:  
+A) Integer (Г–ГҐГ«Г»ГҐ Г·ГЁГ±Г«Г ).
+B) Float (Г‚ГҐГ№ГҐГ±ГІГўГҐГ­Г­Г»ГҐ Г·ГЁГ±Г«Г ). 
+C) String (Г‘ГІГ°Г®ГЄГ )
+D) List (Г‘ГЇГЁГ±Г®ГЄ).  
++E) Tuple (ГЉГ®Г°ГІГҐГ¦). 
++F) Set (ГЊГ­Г®Г¦ГҐГ±ГІГўГ®).  
++G) Dictionary (Г‘Г«Г®ГўГ Г°Гј).
+H) Logical (Г‹Г®ГЈГЁГ·ГҐГ±ГЄГЁГҐ Г§Г­Г Г·ГҐГ­ГЁГї).
 
 $$$ 103
 Structure  nums = [0 , 1 , 2 , 3 , 4 , 5]- is:  
-A) Integer (Целые числа).
-B) Float (Вещественные числа). 
-C) String (Строка)
-+D) List (Список).  
-E) Tuple (Кортеж). 
-F) Set (Множество).  
-G) Dictionary (Словарь).
-H) Logical (Логические значения).
+A) Integer (Г–ГҐГ«Г»ГҐ Г·ГЁГ±Г«Г ).
+B) Float (Г‚ГҐГ№ГҐГ±ГІГўГҐГ­Г­Г»ГҐ Г·ГЁГ±Г«Г ). 
+C) String (Г‘ГІГ°Г®ГЄГ )
++D) List (Г‘ГЇГЁГ±Г®ГЄ).  
+E) Tuple (ГЉГ®Г°ГІГҐГ¦). 
+F) Set (ГЊГ­Г®Г¦ГҐГ±ГІГўГ®).  
+G) Dictionary (Г‘Г«Г®ГўГ Г°Гј).
+H) Logical (Г‹Г®ГЈГЁГ·ГҐГ±ГЄГЁГҐ Г§Г­Г Г·ГҐГ­ГЁГї).
 
 $$$ 104
 Instructions for initializing a list of three-element list containing string values:  
@@ -1084,7 +1084,7 @@ F) list[i]=x
 H) list [i:j:k]
 
 $$$ 111
-Instructions for finding a slice (срез) of a list that contains elements of the list (list) with numbers from i to j in increments of k:  
+Instructions for finding a slice (Г±Г°ГҐГ§) of a list that contains elements of the list (list) with numbers from i to j in increments of k:  
 A) list = [ 'January' , 'February' , 'March' ] ,3
 B) print(list[0] ) 
 C) print( '\nTop Left 0,0 :' , list[1][0] )
@@ -1187,7 +1187,7 @@ E) set1.difference (set2)
 F) set1.union(set2)
 
 $$$ 121
-A set method that returns elements from the set set1 that are not in set2 (разность множеств  set1 - set2):
+A set method that returns elements from the set set1 that are not in set2 (Г°Г Г§Г­Г®Г±ГІГј Г¬Г­Г®Г¦ГҐГ±ГІГў  set1 - set2):
 A) set.add (x)  
 B) set.update (x, y, z) 	
 C) set.pop ()		
@@ -1196,21 +1196,21 @@ D) set1.intersection (set2)
 
 $$$ 122
 A container that can contain multiple data elements as a set of key: value pairs:  
-A) Integer (Целые числа).
-B) Float (Вещественные числа). 
-C) String (Строка)
-D) List (Список).  
-E) Tuple (Кортеж). 
-F) Set (Множество).  
-+G) Dictionary (Словарь).
-H) Logical (Логические значения).
+A) Integer (Г–ГҐГ«Г»ГҐ Г·ГЁГ±Г«Г ).
+B) Float (Г‚ГҐГ№ГҐГ±ГІГўГҐГ­Г­Г»ГҐ Г·ГЁГ±Г«Г ). 
+C) String (Г‘ГІГ°Г®ГЄГ )
+D) List (Г‘ГЇГЁГ±Г®ГЄ).  
+E) Tuple (ГЉГ®Г°ГІГҐГ¦). 
+F) Set (ГЊГ­Г®Г¦ГҐГ±ГІГўГ®).  
++G) Dictionary (Г‘Г«Г®ГўГ Г°Гј).
+H) Logical (Г‹Г®ГЈГЁГ·ГҐГ±ГЄГЁГҐ Г§Г­Г Г·ГҐГ­ГЁГї).
 
 $$$ 123
-A statement that checks for a condition that evaluates a given expression: True или False:  
+A statement that checks for a condition that evaluates a given expression: True ГЁГ«ГЁ False:  
 +A) if: 
 B) else:
 C) break
-D) for…in
+D) forвЂ¦in
 E) return
 
 $$$ 124
@@ -1218,7 +1218,7 @@ An operator that executes if the conditional expression is false:
 A) if: 
 +B) else:
 C) elif:
-D) for…in
+D) forвЂ¦in
 E) while 
 
 $$$ 125
@@ -1226,7 +1226,7 @@ An instruction that performs an alternative check for the if condition and the e
 A) if: 
 B) else:
 +C) elif:
-D) for…in
+D) forвЂ¦in
 E) while
 
 $$$ 126
@@ -1234,19 +1234,19 @@ The complete structure of the conditional operator:
 +A) if: 
 +B) else:
 +C) elif:
-D) for…in
+D) forвЂ¦in
 E) while
 
 $$$ 127
 The result of the program at n =5:
 if n % 2 == 0:
-print('Это число четное')
+print('ГќГІГ® Г·ГЁГ±Г«Г® Г·ГҐГІГ­Г®ГҐ')
 else:
-print('Это число нечетное')
-A) число увеличить в 2 раза
-B) число уменьшить в 2 раза
-C) это число четное
-+D) это число нечетное 
+print('ГќГІГ® Г·ГЁГ±Г«Г® Г­ГҐГ·ГҐГІГ­Г®ГҐ')
+A) Г·ГЁГ±Г«Г® ГіГўГҐГ«ГЁГ·ГЁГІГј Гў 2 Г°Г Г§Г 
+B) Г·ГЁГ±Г«Г® ГіГ¬ГҐГ­ГјГёГЁГІГј Гў 2 Г°Г Г§Г 
+C) ГЅГІГ® Г·ГЁГ±Г«Г® Г·ГҐГІГ­Г®ГҐ
++D) ГЅГІГ® Г·ГЁГ±Г«Г® Г­ГҐГ·ГҐГІГ­Г®ГҐ 
 E) n=5
 
 $$$ 128
@@ -1282,19 +1282,19 @@ C) b= 44
 E) n=55
 
 $$$ 130
-Variable value  с after program execution:
+Variable value  Г± after program execution:
 a = 40
 b = 10
-b = –а/2 * b
+b = вЂ“Г /2 * b
 if a < b:
-с = b - a
+Г± = b - a
 else:
-c = a – 2 * b
+c = a вЂ“ 2 * b
 A) a = 40 
 B) a = 2.5  
 C) b = 10
 D) b = -200
-E) с =-240
+E) Г± =-240
 +F) c =  440 
 
 $$$ 131
@@ -1328,10 +1328,10 @@ F) m= 10
 
 $$$ 133
 Determine the values of the variables x and y, with conditionals x=15, y=2:
-If х > у :
-temp = х
-х = у
-у = temp
+If Гµ > Гі :
+temp = Гµ
+Гµ = Гі
+Гі = temp
 else:
     x = y
 +A) x= 2 
@@ -1343,10 +1343,10 @@ F) m= 10
 
 $$$ 134
 Determine the values of the variables x and y, with conditionals x=3, y=20:
-if х > у :
-temp = х
-х = у
-у = temp
+if Гµ > Гі :
+temp = Гµ
+Гµ = Гі
+Гі = temp
 else:
     x = y
 +A) x= 20 
@@ -1363,7 +1363,7 @@ if x>5 :
 elif x<5 :
     print( 'x< 5' )
 else :
-    рrint( 'x=5' )
+    Г°rint( 'x=5' )
 if x> 7 and x<9 :
     print( 'x=8' )
 if x == 1 or x == 3 :
@@ -1377,48 +1377,48 @@ F) x=1
 
 $$$ 136
 The operator input integer number:
-A) рrint( 'x=5' ) 
-B) рrint (5) 
-C) рrint (a*b) 
+A) Г°rint( 'x=5' ) 
+B) Г°rint (5) 
+C) Г°rint (a*b) 
 +D) int(input())
 E) float (input())
 
 $$$ 137
 The operator input real number:
-A) рrint( 'x=5' )
-B) рrint (5) 
-C) рrint (a*b) 
+A) Г°rint( 'x=5' )
+B) Г°rint (5) 
+C) Г°rint (a*b) 
 D) int(input())
 +E) float(input()) 
 
 $$$ 138
 Correct entry statement output (print):
-+A) рrint( 'x=5' ) 
-B) рrint (5) *
-+C) рrint (a*b) 
++A) Г°rint( 'x=5' ) 
+B) Г°rint (5) *
++C) Г°rint (a*b) 
 D) int(input())
 E) float (input())
 
 $$$ 139
 Operators to output the real value of a variable x=5.123:
-A) рrint( 'x=5' ) 
-B) рrint (5) 
-C) рrint (a*b) 
-+D) рrint (‘% .3f ‘% x) 
-E) рrint (‘% 8.5f ‘% x) 
+A) Г°rint( 'x=5' ) 
+B) Г°rint (5) 
+C) Г°rint (a*b) 
++D) Г°rint (вЂ% .3f вЂ% x) 
+E) Г°rint (вЂ% 8.5f вЂ% x) 
 
 $$$ 140
-Operators to output the real value of a variable x = -2.12 (наиболее оптимальный):
-A) рrint( 'x=5' ) 
-B) рrint (5) 
-+C) рrint (‘% 5.2f ‘% x) 
-D) рrint (‘% .3f ‘% x) 
-E) рrint (‘% 7.5f ‘% x) 
+Operators to output the real value of a variable x = -2.12 (Г­Г ГЁГЎГ®Г«ГҐГҐ Г®ГЇГІГЁГ¬Г Г«ГјГ­Г»Г©):
+A) Г°rint( 'x=5' ) 
+B) Г°rint (5) 
++C) Г°rint (вЂ% 5.2f вЂ% x) 
+D) Г°rint (вЂ% .3f вЂ% x) 
+E) Г°rint (вЂ% 7.5f вЂ% x) 
 
 $$$ 141
 The result of the execution of the program fragment:
 x= 5.123
-print (‘%  7.3f  ‘% x)
+print (вЂ%  7.3f  вЂ% x)
 +A) __5.123
 B) __5.12300
 C) __5.1
@@ -1428,7 +1428,7 @@ E) _5.12
 $$$ 142
 The result of the execution of the program fragment:
 x= -5.123
-print (‘%  7.2f  ‘% x)
+print (вЂ%  7.2f  вЂ% x)
 +A) __-5.12
 B) __5.12300
 C) __-5.1
@@ -1439,8 +1439,8 @@ $$$ 143
 Define the value of the variable c:
 a = 5
 a = a + 6
-b = –a
-c = a – 2 * b
+b = вЂ“a
+c = a вЂ“ 2 * b
 A) 5
 B) 11
 C) -11
@@ -1451,7 +1451,7 @@ $$$ 144
 Define the value of the variable c:
 a = 40
 b = 10
-b = –а/2 * b
+b = вЂ“Г /2 * b
 c = b + a * 2
 A) 5
 B) 11
@@ -1613,7 +1613,7 @@ F) del lst [i]
 G) del lst [i:j]
 
 $$$ 157
-The operation to find the slice (срез) of the lst list:
+The operation to find the slice (Г±Г°ГҐГ§) of the lst list:
 A) len (lst) 
 B) lst ? n
 +C) lst [i:j:k]
@@ -1666,7 +1666,7 @@ $$$ 162
 Integer value:
 +A) a= 154
 B) a= 154.02
-C) a= ‘Red’
+C) a= вЂRedвЂ™
 D) a = [20, 61, 2, 37, 4, 55, 36, 7, 18, 39]
 E) a = ( 'Red' , 'Green' , 'Red' , 'Blue' , 'Red' )
 F) a= { 'Alpha' , 'Bravo' , 'Charlie' }
@@ -1675,7 +1675,7 @@ $$$ 163
 Float value:
 A) a = 154
 +B) a = 154.02
-C) a = ‘Red’
+C) a = вЂRedвЂ™
 D) a = [20, 61, 2, 37, 4, 55, 36, 7, 18, 39]
 E) a = ( 'Red' , 'Green' , 'Red' , 'Blue' , 'Red' )
 F) a = { 'Alpha' , 'Bravo' , 'Charlie' }
@@ -1684,7 +1684,7 @@ $$$ 164
 String type value:
 A) a = 154
 B) a = 154.02
-+C) a = ‘Red’
++C) a = вЂRedвЂ™
 D) a = [20, 61, 2, 37, 4, 55, 36, 7, 18, 39]
 E) a = ( 'Red' , 'Green' , 'Red' , 'Blue' , 'Red' )
 F) a = { 'Alpha' , 'Bravo' , 'Charlie' }
@@ -1693,7 +1693,7 @@ $$$ 165
 List of Python: 
 A) a = 154
 B) a = 154.02
-C) a = ‘Red’
+C) a = вЂRedвЂ™
 +D) a = [20, 61, 2, 37, 4, 55, 36, 7, 18, 39]
 E) a = ( 'Red' , 'Green' , 'Red' , 'Blue' , 'Red' )
 F) a = { 'Alpha' , 'Bravo' , 'Charlie' }
@@ -1702,7 +1702,7 @@ $$$ 166
 Tuple of Python: 
 A) a= 154
 B) a= 154.02
-C) a= ‘Red’
+C) a= вЂRedвЂ™
 D) a = [20, 61, 2, 37, 4, 55, 36, 7, 18, 39]
 +E) a = ( 'Red' , 'Green' , 'Red' , 'Blue' , 'Red' ) 
 F) a= { 'Alpha' , 'Bravo' , 'Charlie' }
@@ -1711,7 +1711,7 @@ $$$ 167
 Set of  Python: 
 A) a = 154
 B) a = 154.02
-C) a = ‘Red’
+C) a = вЂRedвЂ™
 D) a = [20, 61, 2, 37, 4, 55, 36, 7, 18, 39]
 E) a = ( 'Red' , 'Green' , 'Red' , 'Blue' , 'Red' )
 +F) a = { 'Alpha' , 'Bravo' , 'Charlie' }
@@ -1721,7 +1721,7 @@ Loop executing the loop body until the logical expression is true:
 A) if: 
 B) else:
 C) elif:
-D) for …in
+D) for вЂ¦in
 +E) while    
 
 $$$ 169
@@ -1729,7 +1729,7 @@ A loop executing a loop body a specific number of times:
 A) if: 
 B) else:
 C) elif:
-+D) for …in
++D) for вЂ¦in
 E) while
 
 $$$ 170
@@ -1737,7 +1737,7 @@ A loop executing a loop body a specified number of times:
 A) if: 
 B) else:
 C) elif:
-+D) for …in
++D) for вЂ¦in
 E) while
 
 $$$ 171
@@ -1745,7 +1745,7 @@ The cycle in which the variable is indicated and the set of values along which t
 A) if: 
 B) else:
 C) elif:
-+D) for …in   
++D) for вЂ¦in   
 E) while
 
 $$$ 172
@@ -1825,7 +1825,7 @@ D) 10
 E) 25
 
 $$$ 179
-The result of the execution of the program fragment  (values i и j):
+The result of the execution of the program fragment  (values i ГЁ j):
 for i in  range (1, 2):
 print( i )
 for j in  range (1, 3):
@@ -1837,7 +1837,7 @@ B) i = 2
 E) j = 3
 
 $$$ 180
-The result of the execution of the program fragment  (values s и s1):
+The result of the execution of the program fragment  (values s ГЁ s1):
 s=0
 s1=0
 i = 1
@@ -1861,21 +1861,21 @@ Parameter n values when executing a loop:
 m = [1, 2, 3, 4, 5]
 for n in m:
     print (n)
-A) от 0 до 5
-+B) от 1 до 5  
-C) от 0 до 4
-D) от 1 до 4
-E) от 2 до 5
+A) Г®ГІ 0 Г¤Г® 5
++B) Г®ГІ 1 Г¤Г® 5  
+C) Г®ГІ 0 Г¤Г® 4
+D) Г®ГІ 1 Г¤Г® 4
+E) Г®ГІ 2 Г¤Г® 5
 
 $$$ 182
 Parameter i values when executing a loop: 
 for i in range (10, 21):
 print (i)
-A) от 10 до 21 
-+B) от 10 до 20 
-C) от 11 до 21 
-D) от 11 до 20
-E) от 12 до 21
+A) Г®ГІ 10 Г¤Г® 21 
++B) Г®ГІ 10 Г¤Г® 20 
+C) Г®ГІ 11 Г¤Г® 21 
+D) Г®ГІ 11 Г¤Г® 20
+E) Г®ГІ 12 Г¤Г® 21
 
 $$$ 183
 Parameter i values when executing a loop: 
@@ -1934,12 +1934,12 @@ E) 1 2 4 6 8
 
 $$$ 188
 The result of the execution of the program fragment:
-b = [i for i in 'ПРИВЕТ!'] 
+b = [i for i in 'ГЏГђГ€Г‚Г…Г’!'] 
 print (b)
 A) {2, 4, 6, 8} 
 B) [0, 1, 2, 3] 
 C) [0, 0, 0, 0] 
-+D) ['П', 'Р', 'И', 'В', 'Е', 'Т', '!'] 
++D) ['ГЏ', 'Гђ', 'Г€', 'Г‚', 'Г…', 'Г’', '!'] 
 E) 1 2 4 6 8
 
 $$$ 189
@@ -1949,7 +1949,7 @@ print (a [2:4 ] )
 A) {2, 4, 6, 8} 
 +B) [2, 3] 
 C) [0, 0, 0, 0] 
-D) ['П', 'Р', 'И', 'В', 'Е', 'Т', '!'] 
+D) ['ГЏ', 'Гђ', 'Г€', 'Г‚', 'Г…', 'Г’', '!'] 
 E) [0, 1, 2, 3]
 
 $$$ 190
@@ -1959,24 +1959,24 @@ print (a)
 A) {2, 4, 6, 8} 
 B) [2, 3] 
 +C) {3, 5, 6} 
-D) ['П', 'Р', 'И', 'В', 'Е', 'Т', '!'] 
+D) ['ГЏ', 'Гђ', 'Г€', 'Г‚', 'Г…', 'Г’', '!'] 
 E) {3, 6, 3, 5}
 
 $$$ 191
-Methods for determining (упаковки) a tuple:
+Methods for determining (ГіГЇГ ГЄГ®ГўГЄГЁ) a tuple:
 +A) k = ( 'Red' , 'Green' , 'Red' , 'Blue' ) 
-B) ‘color’ 
+B) вЂcolorвЂ™ 
 +C) pr = (200, 50)  
-D) s1 = {'cat': 'кошка', 'dog': 'собака', 'mouse': 'мышь'} 
+D) s1 = {'cat': 'ГЄГ®ГёГЄГ ', 'dog': 'Г±Г®ГЎГ ГЄГ ', 'mouse': 'Г¬Г»ГёГј'} 
 E) [2, 3]
 F) s1 = set ([3,6,3,5])
 
 $$$ 192
 The method  to initialize a set:
 A) 154 
-B) ‘color’ 
+B) вЂcolorвЂ™ 
 C) pr = (200, 50) 
-D) s1 = {'cat': 'кошка', 'dog': 'собака', 'mouse': 'мышь'} 
+D) s1 = {'cat': 'ГЄГ®ГёГЄГ ', 'dog': 'Г±Г®ГЎГ ГЄГ ', 'mouse': 'Г¬Г»ГёГј'} 
 E) [2, 3]
 +F) s2 = {3, 6, 3, 5}  
 
@@ -1985,9 +1985,9 @@ Result:
 s3=set (range (10))
 print (s3)
 +A) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} 
-B) ‘color’ 
+B) вЂcolorвЂ™ 
 C) (200, 50) 
-D) {'cat': 'кошка', 'dog': 'собака', 'mouse': 'мышь'} 
+D) {'cat': 'ГЄГ®ГёГЄГ ', 'dog': 'Г±Г®ГЎГ ГЄГ ', 'mouse': 'Г¬Г»ГёГј'} 
 E) [2, 3]
 F) {3, 6, 3, 5}  
 
@@ -1996,9 +1996,9 @@ Result:
 s2 = set ([7,3,6,3,7,5])
 print (s2)
 A) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} 
-B) ‘color’ 
+B) вЂcolorвЂ™ 
 C) (200, 50) 
-D) {'cat': 'кошка', 'dog': 'собака', 'mouse': 'мышь'} 
+D) {'cat': 'ГЄГ®ГёГЄГ ', 'dog': 'Г±Г®ГЎГ ГЄГ ', 'mouse': 'Г¬Г»ГёГј'} 
 +E) {3, 5, 6, 7}  
 F) {7, 3, 6, 3, 7, 5}  
 
@@ -2010,7 +2010,7 @@ print (s1)
 +A) {0, 1, 2, 3, 4, '5'}  
 B) {0, 1, 2, 3, 4, 5}  
 C) (200, 50) 
-D) {'cat': 'кошка', 'dog': 'собака', 'mouse': 'мышь'} 
+D) {'cat': 'ГЄГ®ГёГЄГ ', 'dog': 'Г±Г®ГЎГ ГЄГ ', 'mouse': 'Г¬Г»ГёГј'} 
 E) {3, 5, 6, 7}   
 F) {7, 3, 6, 3, 7, 5}  
 
@@ -2024,7 +2024,7 @@ print (s3)
 A) {0, 1, 2, 3, 4, '5'}  
 B) {0, 1, 2, 3, 4, 5}  
 C) (200, 50) 
-D) {'cat': 'кошка', 'dog': 'собака', 'mouse': 'мышь'} 
+D) {'cat': 'ГЄГ®ГёГЄГ ', 'dog': 'Г±Г®ГЎГ ГЄГ ', 'mouse': 'Г¬Г»ГёГј'} 
 +E) {0, 1}   
 F) {7, 3, 6, 3, 7, 5}  
 
@@ -2038,7 +2038,7 @@ print(s3)
 +A) {0, 1, 2, 3, 4, '5'}  
 B) {0, 1, 2, 3, 4, 5}  
 C) (200, 50) 
-D) {'cat': 'кошка', 'dog': 'собака', 'mouse': 'мышь'} 
+D) {'cat': 'ГЄГ®ГёГЄГ ', 'dog': 'Г±Г®ГЎГ ГЄГ ', 'mouse': 'Г¬Г»ГёГј'} 
 E) {0, 1}   
 F) {7, 3, 6, 3, 7, 5}
 
@@ -2054,9 +2054,9 @@ E) set1.difference (set2)
 $$$ 199
 Dictionary initialization:
 A) 154 
-B) ‘color’ 
+B) вЂcolorвЂ™ 
 C) pr = (200, 50) 
-+D) d = {'cat': 'кошка', 'dog': 'собака', 'mouse': 'мышь'} 
++D) d = {'cat': 'ГЄГ®ГёГЄГ ', 'dog': 'Г±Г®ГЎГ ГЄГ ', 'mouse': 'Г¬Г»ГёГј'} 
 E) [2, 3]
 F) s2 = {3, 6, 3, 5}  
 
