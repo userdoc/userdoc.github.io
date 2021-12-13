@@ -463,7 +463,7 @@ A) HTML
 E) CGI
 
 $$$ 53
-Ñlient software for viewing web information:
+Ã‘lient software for viewing web information:
 A) Hardware addresses (or MAC addresses). 
 B) Network addresses (IP addresses). 
 +C) Web browser. 
@@ -553,7 +553,7 @@ F) IMAP
 G) SMTP
 
 $$$ 62
-Mechanism that allows the server to store information on the client’s computer and retrieve it from there:
+Mechanism that allows the server to store information on the clientÂ’s computer and retrieve it from there:
 A) HTTP 
 +B) Cookie mechanism 
 C) FTP
@@ -601,48 +601,48 @@ $$$ 67
 Programs running on the client machine:
 +A) Static HTML Pages. 
 +B) JavaScript scripts. 
-C) Plug-in (ïëàãèí). 
-D) Script (ñêðèïò)
+C) Plug-in (Ã¯Ã«Ã Ã£Ã¨Ã­). 
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
  
 $$$ 68
 Programs running on the server:
 A) Static HTML Pages. 
 B) JavaScript scripts. 
-+C) Plug-in (ïëàãèí). 
-+D) Script (ñêðèïò)
++C) Plug-in (Ã¯Ã«Ã Ã£Ã¨Ã­). 
++D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 +E) Server Scripts
 
 $$$ 69
 Programs running on the server. An independently compiled program module dynamically connected to the main program:
 A) Static HTML Pages. 
 B) JavaScript scripts. 
-+C) Plug-in (ïëàãèí). 
-D) Script (ñêðèïò)
++C) Plug-in (Ã¯Ã«Ã Ã£Ã¨Ã­). 
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
 
 $$$ 70
 Programs running on the server. A program that automates some task that a user performs manually using program interfaces:
 A) Static HTML Pages. 
 B) JavaScript scripts. 
-C) Plug-in (ïëàãèí). 
-+D) Script (ñêðèïò)
+C) Plug-in (Ã¯Ã«Ã Ã£Ã¨Ã­). 
++D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
 
 $$$ 71
 Programs running on the server. Script that executed on the server before sending the web page to the user (written in PHP, Perl, Visual Basic, Java, Ruby or Python):
 A) Static HTML Pages. 
 B) JavaScript scripts. 
-C) Plug-in (ïëàãèí). 
-D) Script (ñêðèïò)
+C) Plug-in (Ã¯Ã«Ã Ã£Ã¨Ã­). 
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 +E) Server Scripts
 
 $$$ 72
 Programs running on the server. The software system that has a URI identifier, and whose public interfaces are defined in the XML language:
 A) Static HTML Pages. 
 B) JavaScript scripts. 
-C) Plug-in (ïëàãèí). 
-D) Script (ñêðèïò)
+C) Plug-in (Ã¯Ã«Ã Ã£Ã¨Ã­). 
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
 +F) Web service
 
@@ -651,7 +651,7 @@ Types of Web Applications. Application that runs on a remote computer:
 +A) Backend or server side of the application. 
 B) Frontend or client part of the application. 
 C) Framework. 
-D) Script (ñêðèïò)
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
 F) Web service
 
@@ -660,7 +660,7 @@ Types of Web Applications. Application that executed in the user's browser:
 A) Backend or server side of the application. 
 +B) Frontend or client part of the application. 
 C) Framework. 
-D) Script (ñêðèïò)
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
 F) Web service
 
@@ -669,7 +669,7 @@ Types of Web Applications. A set of libraries and tools that help you create web
 A) Backend or server side of the application. 
 B) Frontend or client part of the application. 
 +C) Framework. 
-D) Script (ñêðèïò)
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
 F) Web service
 
@@ -678,7 +678,7 @@ Web technologies.  Technology is used to centralize the appearance of pages:
 A) Backend or server side of the application. 
 B) Frontend or client part of the application. 
 C) Framework. 
-D) Script (ñêðèïò)
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
 +F) CSS (Cascading Style Sheets)
 G) Java 
@@ -688,7 +688,7 @@ Web technologies.  Programs in this language are translated into Java bytecode e
 A) Backend or server side of the application. 
 B) Frontend or client part of the application. 
 C) Framework. 
-D) Script (ñêðèïò)
+D) Script (Ã±ÃªÃ°Ã¨Ã¯Ã²)
 E) Server Scripts
 F) CSS (Cascading Style Sheets)
 +G) Java 
@@ -914,7 +914,7 @@ B) Design
 +E) Attract new consumers
 
 $$$ 103
-Website Development Steps. Steps of the “Research and Planning” stage:
+Website Development Steps. Steps of the Â“Research and PlanningÂ” stage:
 +A) Defining the project goal
 +B) Creating a project idea
 +C) Development of the project structure
@@ -923,7 +923,7 @@ E) Visual Design
 F) Interactive and visual design principles
 
 $$$ 104
-Website Development Steps. Steps of the “Design” stage:
+Website Development Steps. Steps of the Â“DesignÂ” stage:
 A) Defining the project goal
 B) Creating a project idea
 C) Development of the project structure
@@ -959,7 +959,7 @@ E) Visual Design
 F) Interactive and visual design principles
 
 $$$ 108
-Website Development Steps. Step for Development a Project wireframe (ìàêåò):
+Website Development Steps. Step for Development a Project wireframe (Ã¬Ã ÃªÃ¥Ã²):
 A) Defining the project goal
 B) Creating a project idea
 C) Development of the project structure
@@ -1030,7 +1030,7 @@ D) Decorative elements of a page that redirect the user's eyes to various design
 E) SEO-optimization
 
 $$$ 116
-Website Development. Scheme of viewing the site page along the contour of the letter “Z”:
+Website Development. Scheme of viewing the site page along the contour of the letter Â“ZÂ”:
 +A) Z-page view
 B) F-page view
 C) AIDA (Attraction -  Interest - Desire - Action)
@@ -1038,7 +1038,7 @@ D) Decorative elements of a page that redirect the user's eyes to various design
 E) SEO-optimization
 
 $$$ 117
-Website Development. Scheme of viewing the site page along the contour of the letter “F”:
+Website Development. Scheme of viewing the site page along the contour of the letter Â“FÂ”:
 A) Z-page view
 +B) F-page view
 C) AIDA (Attraction -  Interest - Desire - Action)
@@ -1057,7 +1057,7 @@ $$$ 119
 Website Development. One of the main factors that determine the purpose and design of the site: the ratio of text, images, multimedia data and interactive elements:
 A) Z-page view
 +B) Target audience
-C) Wireframe (mock-up, ìàêåò)
+C) Wireframe (mock-up, Ã¬Ã ÃªÃ¥Ã²)
 D) Information architecture (logical structure) of the site.
 E) SEO-optimization
 
@@ -1065,7 +1065,7 @@ $$$ 120
 Website Development. Structure that allows you to organize the content of the Web site and determines how the user gets access to information: 
 A) Z-page view
 B) Target audience
-C) Wireframe (mock-up, ìàêåò)
+C) Wireframe (mock-up, Ã¬Ã ÃªÃ¥Ã²)
 +D) Information architecture (logical structure) of the site.
 E) SEO-optimization
 
@@ -1073,7 +1073,7 @@ $$$ 121
 Website Development. Types of information architecture (logical structure): 
 A) Z-page view
 B) Target audience
-C) Wireframe (mock-up, ìàêåò)
+C) Wireframe (mock-up, Ã¬Ã ÃªÃ¥Ã²)
 +D) Hierarchical structure of the site.
 E) SEO-optimization
 +F) Linear structure of the site
@@ -1083,8 +1083,8 @@ $$$ 122
 Website Development. Visual representation of the structure elements, but does not contain design elements such as color, logos, etc.:
 A) Z-page view
 B) Target audience
-+C) Wireframe (mock-up, ìàêåò)
-D) Layout (page layout, øàáëîí).
++C) Wireframe (mock-up, Ã¬Ã ÃªÃ¥Ã²)
+D) Layout (page layout, Ã¸Ã Ã¡Ã«Ã®Ã­).
 E) SEO-optimization
 F) Linear structure of the site
 G) Hybrid structure of the site
@@ -1120,8 +1120,8 @@ $$$ 126
 Website Development. Visual representation of the design of website elements, displays color, images, video objects, logos, etc.
 A) Z-page view
 B) Target audience
-C) Wireframe (mock-up, ìàêåò)
-+D) Layout (page layout, øàáëîí).
+C) Wireframe (mock-up, Ã¬Ã ÃªÃ¥Ã²)
++D) Layout (page layout, Ã¸Ã Ã¡Ã«Ã®Ã­).
 E) SEO-optimization
 F) Linear structure of the site
 G) Hybrid structure of the site
@@ -1186,7 +1186,7 @@ F) Testing and launch
 G) Adaptive Web Design, AWD
 
 $$$ 133
-Website Development. Steps of «MarkUp (Layout) and site development» stage a website (web-project):
+Website Development. Steps of Â«MarkUp (Layout) and site developmentÂ» stage a website (web-project):
 +A) Site layout
 +B) Development
 C) Testing
@@ -1194,7 +1194,7 @@ D) Launch site
 E) Visual Design
 
 $$$ 134
-Website Development. Steps of «Testing and launch» stage a website (web-project):
+Website Development. Steps of Â«Testing and launchÂ» stage a website (web-project):
 A) Research and Planning 
 +B) Checking all hyperlinks
 C) Development
@@ -1202,7 +1202,7 @@ C) Development
 +E) Checking content
 
 $$$ 135
-Website Development. Steps of «Design» stage a website (web-project):
+Website Development. Steps of Â«DesignÂ» stage a website (web-project):
 A) Research and Planning 
 +B) Development of the project wireframe
 +C) Visual Design
@@ -1210,7 +1210,7 @@ A) Research and Planning
 E) Launch site
 
 $$$ 136
-Website Development. Steps of «Web Design (Visual Design)» stage a website (web-project):
+Website Development. Steps of Â«Web Design (Visual Design)Â» stage a website (web-project):
 A) Research and Planning 
 +B) Determination of the color scheme of the project
 +C) Choosing the trend of WEB design
