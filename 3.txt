@@ -1,0 +1,1415 @@
+ риптологи€ (на английском)
+√орбунова Ќ.ј.
+$$$ 1
+The science of how to transform (encrypt) information in order to protect it from illegal users (development of ciphers)
++.A) cryptography
+B) cryptology
+C) cartography
+D) cryptanalysis
+E) cryptomethod
+$$$ 2
+The key is 
+A) the process of converting open data into encrypted data using a cipher
+++.B) replaceable cipher element that is used to encrypt a specific message
+C) cipher element
+D) ciphertext element
+E) replaceable element
+$$$ 3
+Cryptosystems with a single key
+A) class D
+B) with public key
+C) asymmetrical
+D) with private key
++.E) symmetrical
+$$$ 4
+Cryptosystems using two keys
+A) symmetrical
++.B) asymmetrical
+C) public key
+D) with private key
+E) Class D
+$$$ 5
+Cryptology is
+A) the science of methods and techniques for breaking ciphers
++.B) a science consisting of two branches: cryptography and cryptanalysis
+C) cipher strength
+D) replaceable cipher element
+E) science (and practice of its application) about methods and methods of breaking ciphers (attack on ciphers)
+$$$ 6
+The purpose of identification is
+A) software unification
+.B) identifying subtle signs of copyright infringement
++C) identifying clear signs of copyright infringement
+D) analysis of program characteristics
+E) analyzing programming style
+$$$ 7
+Science that deals with the problem of protecting information by transforming it
++.A) cryptology
+B) cryptography
+C) cryptanalysis
+D) cartography
+E) steganography
+$$$ 8
+Science engaged in the search and research of mathematical methods for transforming information
+A) cryptology
++.B) cryptography
+C) cryptanalysis
+D) cartography
+E) steganography
+$$$ 9
+The alphabet is
++.A) a finite set of characters used to encode information
+B) an ordered set of elements
+C) an unordered collection of elements
+D) an infinite number of signs used to encode information
+E) ordered set of characters used to decrypt data
+$$$ 10
+In symmetric cryptosystems, for encryption and decryption,
+A) three keys
+B) two keys that are mathematically related to each other
+C) no keys
++.D) the same key
+E) two keys that are not related to each other
+$$$ 11
+Crypto resistance is determined ...
++.A) the number of all possible keys; average time required for cryptanalysis
+B) the number of all possible keys
+C) the length of the alphabet
+D) the average time required for cryptanalysis
+E) the average time it takes to encrypt
+$$$ 12
+The public key is used to
+A) decrypting information
+B) broadcasting information
++.C) encryption of information
+D) copying information
+E) unification of information
+$$$ 13
+Function value ?(7)
+A) 1
+B) 2
+C) 3
+D) 5
++.E) 6
+$$$ 14
+The formula for calculating the Euler function of a prime number p
+A) ?(p)=p
+B) ?(p)=p+1
+C) ?(p)=p-2
+D) ?(p)=p+1 
++.E) ?(p)=p-1
+$$$ 15
+The number of prime numbers in a row from one to ten
+A) 9
+B) 5
++.C) 4
+D) 2
+E) 8
+$$$ 16
+Euler function value ?(19*17)
+A) 220
+B) 215
++.C) 288
+D) 270
+E) 264
+$$$ 17
+Euler function value ?(6)
++.A) 2
+B) 1
+C) 3
+D) 5
+E) 6
+$$$ 18
+The value of the Euler function of a prime number p is calculated by the formula
+A) ?(p)=p
++.B) ?(p)=p-1
+C) ?(p)=p+1
+D) ?(p)=p-2
+E) ?(p)=p+2
+$$$ 19
+The number of primes in the first ten natural numbers
++.A) 4
+B) 5
+C) 6
+D) 2
+E) 9
+$$$ 20
+Prime factorization of 250
++.A) 2*53
+B) 22*52
+C) 22*5
+D) 2*3*52
+E) 7*23*3
+$$$ 21
+Function value ?(23*13)
+A) 220
+B) 215
+C) 228
+D) 270
++.E) 264
+$$$ 22
+Cryptology is a science that consists of two parts:
+A) cryptography and astrology
+B) cryptanalysis and astrography
+C) cartography and cryptography
++.D) cryptography and cryptanalysis
+E) cryptanalysis and synthesis
+$$$ 23
+Cryptography is the science of ...
+A) codes
+B) prime numbers
++.C) ciphers
+D) maps
+E) divisibility of numbers
+$$$ 24
+The key in cryptography is
+A) constant cipher element
++.B) replaceable cipher element
+C) encryption code
+D) decryption code
+E) an arbitrary number
+$$$ 25
+Calculate (625,250).
+A) 50
+B) 100
+C) 25
++.D) 125
+E) 150
+$$$ 26
+With the help of the sieve of Eratosthenes they find ...
+A) even numbers
+B) odd numbers
+C) multiples of 5
+D) multiples of 7
++.E) prime numbers
+$$$ 27
+The canonical decomposition of 288
+A) 2*12*12 
+B) 24*12
+C) 2*24*3*3
++.D) 25*32
+E) 8*22*9
+$$$ 28
+Given number 75. Which of the numbers will be mutually prime with this number.
+A) 25 
+B) 15
+C) 33
+D) 39
++.E) 77
+$$$ 29
+A cryptosystem in which a message is transformed into blocks of a certain length 
+A) streaming cryptosystem
++.B) block cryptosystem
+C) RSA
+D) El Gamal
+E) combined
+$$$ 30
+Euler function value ?(12)
++.A) 4
+B) 7
+C) 12
+D) 10
+E) 5
+$$$ 31
+Canonical polynomial decomposition f(x)=x2+4 over the field of complex numbers
+.A) (x-2)(x+2)
+B) x(x2+4)
+C) (x-4)(x+4)
+++D) (x+2i)(x-2i)
+E) (x+4)(i-4)
+$$$ 32
+Possible notation for the greatest common divisor of numbers m and n:
+A) Ќќ (m,n)
++.B) Ќќƒ(m, n)
++.C) (m , n)
++.D) gcd (m, n)
+E) lcm(m,n) 
+F) [m,n] 
+$$$ 33
+The least common multiple of m and n is denoted:
++.A) Ќќ (m,n)
+B) Ќќƒ(m, n)
+C) (m , n)
+D) gcd (m, n)
++.E) lcm(m,n) 
++F) [m,n] 
+$$$ 34
+Euler function value ?(n), if n=p*q, where p and q are prime numbers.
+A) ?(n)= p+q
+B) ?(n)= p-q
+C) ?(n)= p*q
+D) ?(n)= (p-1)q
++.E) ?(n)= (p-1)(q-1)
+$$$ 35
+Euler function ?(35)
+A) 20
+B) 12
+C) 2
++.D) 24
+E) 28
+$$$ 36
+Euler function ?(29)
+A) 27
+B) 29
+C) 30
+D) 11
++.E) 28
+$$$ 37
+What class of transformations does the Caesar cipher belong to?
+++A) simple replacement cipher
+.B) substitution cipher
+C) permutation cipher
+D) tabular
+E) complex substitution cipher
+$$$ 38
+A lot of integers are denoted by the letter
+A) N
+B) P
+C) Q
++.D) Z
+E) R
+$$$ 39
+Euler function of 7
+A) 3
++.B) 6
+C) 14
+D) 5
+E) 7
+$$$ 40
+Given n=23*19. What product gives the value of the Euler function?
+A) 23*18
+B) 22*19
++.C) 22*18
+D) 23*20
+E) 22*20
+$$$ 41
+Which of the numbers is coprime to 45?
+A) 10
+B) 25
++.C) 32
+D) 15
+E) 40
+$$$ 42
+What numbers give a remainder of 4 when divided by 9?
++.A) 13 22 31 94 103
+B) 13 42 43 51 58
+C) 64 110 112 108 193
+D) 18 44 55 16 73
+E) 4 9 15 73 99
+$$$ 43
+Factoring of 99
+A) 9*11
++.B) 32*11
+C) 3*3*9*11
+D) 3*9*11
+E) 3*112
+$$$ 44
+What is the formula for multiples of 13?
++.A) 13n
+B) 13+n
+C) 13-n
+D) 2n+13
+E) 2n-13
+$$$ 45  
+What is the formula for the numbers that give remainder 1 when divided by 5?
++.A) 5n+1
+B) 5n-3
+C) 5n+2
+D) 5n+4
+E) 5n
+$$$ 46 
+A dictionary where elements of plain text (letters, combinations of letters, words, phrases) are replaced by groups of characters (letters, numbers, other signs) is
++.A) code
+B) key
+C) wandering
+D) tenacity
+E) system
+$$$ 47  
+The ability to resist the attempts of a cryptanalyst, well armed with modern technology and knowledge, to decrypt an intercepted text, reveal cipher keys or violate the integrity and authenticity of information
+A) open source
+B) cipher
+C) code
++.D) tenacity
+E) decryption
+$$$ 48 
+Attack on the cipher, disclosure of the cipher by the cracker
+A) coding
++.B) decryption
+C) decrypt
+D) encryption
+E) decoding
+$$$ 49
+Plaintext is
++.A) the original message to be protected by the cryptographer
+B) story
+C) internet offer
+D) article
+E) newspaper message
+$$$ 50
+Many reversible plaintext form transformations is
+++A) cipher
+.B) decryption
+C) closed text
+D) tenacity
+E) key
+$$$ 51
+A set of data defining a specific transformation from a set of cipher transformations
+A) code
+B) tenacity
+++C) key
+.D) cipher
+E) replacement
+$$$ 52
+Cryptography tasks
++.A) ensuring privacy, user authentication
++.B) ensuring the integrity of information
++.C) ensuring non-traceability
+D) encryption
+E) decryption
+$$$ 53
+Confidentiality is handled by
+A) electronic signature
+B) protocols
+.C) public keys
+.D) private keys
++E) cryptosystems
+$$$ 54
+An illegal user is
++.A) the one who seeks to seize information in order to turn it to his advantage and to the detriment of the legitimate user
+B) co-author
+C) random person
+D) buddy
+E) well-wisher
+$$$ 55
+The strength of the cryptosystem depends on
++.A) the complexity of the transformation algorithm
++.B) key length
++.C) implementation method
+D) replacement cipher
+E) substitution cipher
+$$$ 56
+Public key systems use
++.A) public and private key
+B) public key
+C) private key
+D) public, private and duplicate keys
+E) public key, private key, electronic signature and replaceable key
+$$$ 57
+Crypto resistance is 
++.A) A characteristic of a cipher that determines its resistance to decryption without knowing the key
+B) A characteristic of a cipher that determines its resistance to decryption, taking into account that the key is known
+C) Key characteristic
+D) Characteristics of the encryption algorithm
+E) PC specifications
+$$$ 58
+Crypto resistance indicators:
++.A) the number of all possible keys; average time required for cryptanalysis
+B) the number of all possible keys;
+C) alphabet length
+D) average time required for cryptanalysis
+E) average time required for encryption
+$$$ 59
+The stage of development of cryptography and cryptanalysis before 1949 is 
++.A) pre-scientific cryptology
+B) scientific cryptology
+C) scientific cryptography
+D) Chenon's theory
+E) Markov theory
+$$$ 60
+Shannon considered a model in which a message source generates
++.A) plaintext X
+B) closed text X
+C) key
+D) performs the operation X = T-1Y
+E) ciphertext Y
+$$$ 61
+In substitution encryption ("substitution") the characters of the encrypted text
++.A) are replaced by characters of another or the same alphabet in accordance with the replacement scheme
+B) are rearranged according to some rule within some block of this text
+C) are transformed according to some analytical rules
+D) is transformed using a matrix
+E) is transformed using an inverse key matrix
+$$$ 62
+In permutation encryption, the characters of the encrypted text
+A) are replaced by characters of a different or the same alphabet in accordance with the replacement scheme
++.B) are rearranged according to some rule within some block of this text
+C) are transformed according to some analytical rule
+D) is transformed using a matrix
+E) is transformed using an inverse key matrix
+$$$ 63
+By analytical transformation the characters of the encrypted text 
+A) are replaced by characters of a different or the same alphabet in accordance with the replacement scheme
+B) are rearranged according to some rule within some block of this text
++.C) are transformed according to some analytical rule
+D) is transformed using an inverse key matrix
+E) transformed by permutation
+$$$ 64
+The types of substitution are considered in cryptography:
++.A) mono-alphabetic, homophonic, polyalphabetic and poly-gram
+B) mono-alphabetic, homophonic, polyalphabetic
+C) Vizhner, Caesar, Playfer, analytical
+D) Huffman, Caesar, Playfair
+E) Markov, homophonic, Playfair
+$$$ 65
+With mono-alphabetic replacement
++.A) each letter of the plaintext alphabet is associated with one letter of the ciphertext from the same alphabet
+B) each letter of the plaintext alphabet is associated with two letters of the ciphertext from the same alphabet
+C) each letter of the plaintext is assigned a letter with a shift
+D) each letter of the plaintext alphabet is associated with one letter of the key
+E) each letter of the plaintext is assigned a letter of the sealed text
+$$$ 66
+The statistical properties of the plaintext are stored in the ciphertext
+++A) The main disadvantage of mono-alphabetic replacement
+B) The main advantage of mono-alphabetic replacement
+.C) The main disadvantage of Homophonic replacement
+D) The main advantage of Homophonic replacement
+E) The advantage of all encryption systems
+$$$ 67
+To distort the statistical properties of the ciphertext, use
+A) mono-alphabetic substitution
++.B) Homophonic replacement
+C) Caesar cipher
+D) Playfair method
+E) Valapuk code
+$$$ 68
+Playfair cipher Ц
+++A) polygram substitution
+B) mono-alphabet substitution
+C) multi-alphabetic replacement
+D) homophonic substitution
+.E) polyalphabetic substitution
+$$$ 69
+Assigning to subjects and objects of access a unique number, cipher, code, etc. for the purpose of obtaining access to information is
++.A) identification
+B) signature
+C) production code
+D) manufacturer code
+E) trademark
+$$$ 70
+Advantages of hardware implementation of cryptographic data closure
++.A) high performance and simplicity
+B) encryption strength
+C) low material costs for implementation
+D) ease of creation
+E) availability
+$$$ 71
+A guarantee that the source of the information is exactly the person who is declared as its author:
++.A) Authenticity
+B) Appellability
+C) Confidentiality
+D) Integrity
+E) Reliability
+$$$ 72
+A guarantee that, if necessary, it will be possible to prove that the claimed person is the author of the message, and no one else can be:
+A) Authenticity
++.B) Appellability
+C) Confidentiality
+D) Integrity
+E) Reliability
+$$$ 73
+A violation of the category of confidentiality of information is:
+A) Falsification of a message
++.B) Theft or disclosure
+C) Computer system security threat
+D) Computer system vulnerability
+E) Falsification of the author of the post
+$$$ 74
+A violation of the category of information integrity is:
++.A) Falsification of a message
+B) Theft or disclosure
+C) Computer system security threat
+D) Computer system vulnerability
+.E) Falsification of the author of the post
+$$$ 75
+Cryptography means:
+.A) Information coding
+B) Hiding the meaning of information
+C) Communication of information
+D) Safe storage of information
+E) New information
+$$$ 76
+Cryptography provides:
+A) Compressing data sizes
+B) Reliability of data storage
+C) Securing network protocols
+D) Protection of data processing programs
++.E) Protection of information from unauthorized access
+$$$ 77
+The main purpose of cryptanalysis:
+A) Protecting network protocols
+B) Compressing data sizes
+C) Protection of information from unauthorized access
++.D) Opposing cryptographic techniques
+E) Protection of data processing programs
+$$$ 78
+A complex science that includes cryptography and cryptanalysis:
+.A) Cryptography
+++B) Cryptology
+C) Cypherology
+D) Information protection
+E) Protectionology
+$$$ 79
+A cryptoalgorithm in the main classification scheme, when using which the sender and the receiver perform transformations on the message, known only to two of them:
+A) Cryptography with a key
+B) Stream cipher
+.C) Symmetric cryptoalgorithm
+D) Asymmetric Cryptoalgorithm
+++E) Cryptography
+$$$ 80
+What is the name of the cryptoalgorithm in the main classification scheme, the impact algorithm of which is known to all third parties, but it depends on some parameter (key) that only the sender and the receiver possess:
+++A) Cryptography with a key
+B) Stream cipher
+C) Symmetric cryptoalgorithm
+.D) Asymmetric Cryptoalgorithm
+E) Cryptography
+$$$ 81
+What is the name of the cryptoalgorithm in the main classification scheme, in which the same block of information (key) is used to encrypt and decrypt a message:
+A) Cryptography with a key
+B) Stream cipher
++.C) Symmetric cryptoalgorithm
+D) Asymmetric Cryptoalgorithm
+E) Cryptography
+$$$ 82
+What is the name of the cryptoalgorithm in the main classification scheme, in which one ("public") key is used to encrypt the message, known to everyone, and to decrypt the message - another ("private") key that exists only with the recipient:
+A) Cryptography with a key
+B) Stream cipher
+C) Symmetric cryptoalgorithm
++.D) Asymmetric Cryptoalgorithm
+E) Cryptography
+$$$ 83
+What groups are cryptoalgorithms divided into, depending on the nature of the impacts made on the data:
+A) Stream and block ciphers
+B) Scramblers and block ciphers
++.C) Permutation and substitution algorithms
+D) Symmetric and asymmetric cryptoalgorithms
+E) Cryptography and Key Cryptography
+$$$ 84
+Prime factorization of 1000
++.A) 23*53
+B) 22*52
+C) 22*5
+D) 2*3*52
+E) 7*23*3
+$$$ 85
+Canonical decomposition of number 144.
+A) 2*12*12 
+B) 24*12
+C) 2*24*3*3
++.D) 24*32
+E) 8*22*9
+$$$ 86
+Given number 125. Which of the numbers will be mutually prime with this number.
+A) 25 
+B) 15
++.C) 33
+D) 40
+E) 75  
+$$$ 87
+Cryptography means
++.A) hiding information in order to ensure its confidentiality and integrity
+B) the process of converting open data into encrypted data using a cipher
+C) replaceable cipher element that is used to encrypt a specific message
+D) information hiding
+E) de-coding process
+$$$ 88
+Key -
+A) cipher element
+.B) replaceable cipher element that is used to encrypt a specific message
+++C) the process of converting open data into encrypted data using a cipher
+D) ciphertext element
+E) replaceable element
+$$$ 89
+Cryptanalysis -
+A) the science of coding techniques
+B) replaceable cipher element
+C) is used to encrypt a specific message
++.D) the science of cipher breaking techniques and techniques
+E) entropy of information
+$$$ 90
+Cryptology -
+A) the science of methods and techniques for breaking ciphers
++.B) a science consisting of two branches: cryptography and cryptanalysis
+C) cipher strength
+D) replaceable cipher element
+E) science (and practice of its application) about methods and methods of breaking ciphers (attack on ciphers)
+$$$ 91
+Mono and multi-alphabetic substitutions
+.A) replacing characters of the original text with others from the other alphabet
+++B) replacing characters of the original text with others of the same alphabet
+C) imposing on the source text some pseudo-random sequence generated based on the key
+D) represents a sequence (with possible repetition and alternation) of basic conversion methods applied to a block of ciphertext
+E) permutations
+$$$ 92
+Given a polynomial х2-16. Indicate a polynomial which is coprime to the given polynomial.
+.A) (х-4)2
+++B) х2+16
+C) (х+4)2
+D) х-4
+E) 2(х+4)
+$$$ 93
+Caesar cipher
+A) complex substitution cipher
++.B) a simple replacement cipher
+C) permutation cipher
+D) substitution cipher
+E) RSA
+$$$ 94
+Substitutions, permutations, gamming, block ciphers refer to
++.A) symmetric cryptosystems
+B) asymmetric cryptosystems
+C) El Gamal's algorithm
+D) RSA algorithm
+E) Diffie-Hellman algorithms
+$$$ 95
+As a key in encryption tables
+++A) table size
+++.B) word
+++C) a permutation phrase
+D) table feature
+E) table shape
+$$$ 96
+The key of the most primitive table permutation cipher is
+++A) table size
+B) word
+C) phrase
+D) feature of table structure
+.E) a set of numbers in a row length table
+$$$ 97
+Disguise is
+A) protecting the document from deletion
+B) physical barrier to access to protected information
+C) a method of protection in which users and personnel are forced to comply with the rules for the processing and storage of information under the threat of material, administrative or criminal liability
++.D) a way to protect information by cryptographically closing it
+E) copy protection
+$$$ 98
+Methods an attacker can use to obtain a password
++.A) decryption, password guessing and interception
+B) decryption, hacking and interception
+C) decryption, hacking, password guessing
+D) interception, cracking and password guessing
+E) decode, hack and intercept
+$$$ 99
+Into how many disjoint classes does the number m divide the set of all integers?
+A) m-1
+B) m+1
++.C) m
+D) m+2
+E) 2m
+$$$ 100
+The number 10 divides the set of all integers by
+A) 20 classes
+B) 15 classes
++.C) 10 classes
+D) 9 classes
+E) 11 classes
+
+$$$ 101
+Determine the complete system of residues mod 7
+A) 1, 3, 2, 4,
+B) 5, 6, 7, 10
++C) 0, 1, 2, 3, 4, 5, 6
+D) 3, 4, 5, 8
+E) 1, 2, 3, 4, 5
+$$$ 102
+Determine the reduced system of residues modulo 9
+A) 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+B) 1, 2, 3, 4, 5,
+C) 7, 8, 9
+D) 0, 1, 3, 5, 7, 9
++E) 1, 2, 4, 5, 7, 8
+$$$ 103
+The strength of the RSA cryptosystem is based
++A) on the complexity of factoring large numbers
+B) on the difficulty of computing discrete logarithms
+C) on the difficulty of computing polynomials
+D) on the difficulty of solving n-degree equations
+E) on the difficulty of finding prime numbers
+$$$ 104
+The Diffie-Hellman system's cryptographic strength is based
+A) on the complexity of factoring large numbers
++B) on the difficulty of computing discrete logarithms
+C) on the difficulty of computing polynomials
+D) on the difficulty of solving n-degree equations
+E) on the difficulty of finding prime numbers
+$$$ 105
+The cryptographic strength of the system based on the "backpack problem" is based on
+A) on the complexity of factoring large numbers
+B) on the difficulty of computing discrete logarithms
+C) on the difficulty of computing polynomials
+D) on the difficulty of solving n-degree equations
++E) on the difficulties of solving problems of finding elements, the sum of which is equal to a given number
+$$$ 106
+Theorem "System of equations     has a unique solution modulo m * n "is called ...
+A) Fermat's theorem
+B) Euler's theorem
+C) Legendre's theorem
+D) Jacobi's theorem
++E) Chinese Remainder Theorem 
+$$$ 107
+Solve the comparison system  
++A) x?18(mod 35)
+B) x?10(mod 35)
+C) x?12(mod 35)
+D) x?7(mod 35)
+E) x?21(mod 35)
+$$$ 108
+Expression of the form   called
++A) polynomial
+B) binomial
+C) monomial
+D) the sum
+E) work
+$$$ 109
+If b=ax (mod p), where a is the primitive root modulo p,  , then x is called
+A) antiderivative root
+B) exponent
++C) discrete logarithm
+D) a random number
+E) a constant number
+$$$ 110
+Discrete logarithm is called differently
+A) natural
+B) decimal
++C) index
+D) simple
+E) super complicated
+$$$ 111
+Solve comparison 3x?15(mod 4)
++A) x?1(mod 4)
+B) x?7(mod 4)
+C) x?3(mod 4)
+D) x?4(mod 4)
+E) x?12(mod 4)
+$$$ 112
+Vernal's cipher is
+A) table encryption
+B) encryption substitution
+C) permutation encryption
+D) encryption replacement
++E) bitwise encryption
+$$$ 113 
+Given equality 2?33(mod 5)
+What is the discrete logarithm of 2 to base 5?
+A) 2
++B) 3
+C) 5
+D) 1
+E) 4
+$$$ 114
+The Viginera system is
+A) table cipher
+B) public key system
++C) a complex substitution cipher
+D) permutation cipher
+E) RSA
+$$$ 115 
+Ensuring authentication, integrity, non-traceability is solved with the help of
+A) electronic signature
++B) protocols
+C) public keys
+D) cryptosystems
+E) private keys
+$$$ 116A sequence of steps taken by two or more parties to jointly solve a certain problem is
++A) protocol
+B) electronic signature
+C) ciphertext
+D) coding
+E) decoding
+$$$ 117A renegade is
+A) rework
+B) fake
+C) active interception
++D) failure
+E) repeat
+$$$ 118 
+Message modification is 
++A) rework
+B) failure
+C) fake
+D) active interception
+E) repeat
+$$$ 119
+Imitation is
+A) failure
+B) fake
+C) repeat
++D) disguise
+E) active interception
+$$$ 120
+The simplest and most common electronic signature tool is the algorithm
++A) RSA
+B) CBA
+C) ElGamal
+D) backpack problem
+E) Diffie-Hellman
+$$$ 121
+A digital signature is
+A) a sequence of random numbers
+B) a series of natural numbers
++C) a string of characters depending on the sender ID and the content of the message
+D) set of primes
+E) an increasing sequence of integers
+$$$ 122
+True digital signature if
+A) the signed message is sent through a third party
++B) the signed message is sent directly from the sender to the recipient
+C) the signed message is sent through some third party
+D) the signed message is not sent to the recipient, but to the second person
+E) the signed message is passed from the sender to the recipient's proxy
+$$$ 123
+Key management is an informational process that includes
++A) generating keys
++B) accumulation of keys
++C) key distribution
+D) declassifying keys
+E) selection of keys
+$$$ 124
+Pseudo-random number sensors are used
++A) to generate keys
+B) to get primes
+C) solving comparisons
+D) receiving ciphers
+E) the formation of number sequences
+$$$ 125
+The organization of storage of keys, their accounting and deletion is called
+A) generating keys
+B) key distribution
++C) accumulation of keys
+D) deleting keys
+E) generating keys
+$$$ 126
+Promptness, secrecy and accuracy of key distribution is a requirement for
+A) generating keys
+B) accumulation of keys
++C) key distribution
+D) deleting keys
+E) key storage
+$$$ 127
+Galois field is denoted
++A) GF(p)
+B) G
+C) F(p)
+D) Dp
+E) P
+$$$ 128
+Field with elements {0,1,2, Е p-1} Ц all possible remainders from dividing integers by p and algebraic actions modulo p are called
+A) by the Diffie field
++B) Galois field
+C) Caesar's field
+D) by the Viginer field
+E) by Shannon field
+$$$ 129 
+The smallest positive number k for which k*a?0(mod p) for   called
++A) field characteristic
+B) field boundary
+C) field area
+D) field length
+E) the perimeter of the field
+$$$ 130
+The trade-off between public key systems and conventional algorithms, which require the sender and recipient to have the same key, is
++A) using "roaming keys"
+B) using public keys
+C) using private keys
+D) use of voice communication
+E) using voicemail
+$$$ 131
+Square tables with sequential natural numbers inscribed in their cells, starting from 1, which add up the same number for each column, each row and each diagonal, are called
+A) fairy squares
+B) unreal squares
++C) magic squares
+D) complex squares
+E) super squares
+$$$ 132
+The permutation cipher "skital" uses devices
+A) conical shape
++B) cylindrical
+C) ball shape
+D) combined form
+E) truncated-conical shape
+$$$ 133
+One of the first ciphers of simple replacement is the Polybian square, which was proposed by the Greek writer and historian Polybius for encryption purposes. It is a square size
+A) 2 2
+B) 3 3
+C) 4 4
++D) 5 5
+E) 7 7
+$$$ 134
+The virtue of the Caesar encryption system
++A) ease of encryption
++B) ease of decryption
+C) low durability
+D) high durability
+E) impossibility of breaking
+$$$ 135 
+Disadvantages of Caesar's encryption system
++A) the frequency of appearance of the letters of the original text is not masked
++B) the alphabetical order of the sequence of replacement letters is preserved
++C) the number of possible keys is small and the cipher is easily revealed based on the analysis of the frequencies of occurrence of letters in the ciphertext
+D) ease of encryption
+E) ease of decryption
+$$$ 136
+The process of imposing a cipher on open data according to a certain gamma law is called
++A) gamming
+B) encryption
+C) decryption
+D) permutation
+E) tabling
+$$$ 137 3 верных
+Asymmetric cryptosystems include
++A) RSA
++B) El Gamal
++C) Diffie-Hellman
+D) Caesar
+E) Viginera
+$$$ 138
+The plaintext encryption procedure is as follows
+1. selects 2 large primes p и q and calculate n=pq and m=(p-1)(q-1)
+2. chooses an integer k such that K<m and (e,m.)=1
+3. вычисл€ет число k, удовлетвор€ющее условию K*k?1 (mod m)
+4. the subscriber's secret key is a triplet of numbers (p,q,k), open - a pair of numbers (n,K)
+Such a cryptosystem is called
+A) El Gamal
++B) RSA
+C) Viginera
+D) Diffie-Hellman
+E) Caesar
+$$$ 139
+A function with the following properties
+1. function description H(k,x) should be open, and secret information should only be contained in the choice of the key k
+2. function x argument H(k, x) can be an arbitrary length string, and the function value must be a fixed length string
+3. for any given k and x, the calculation H(k, x) must be fast (in polynomial time)
+4. for any given x it should be hard to guess the value H(k, x) with a probability greater than 1/2n, where n Ц the number of bits in the output string. It should be difficult to determine the key k even over a large number of pairs {xi, H(k,x) } or calculate from this information H(k,x) for x?xi called
+A) exponential
++B) hash function
+C) unilateral
+D) unidirectional
+E) polynomial
+$$$ 140
+Keyless hash functions are divided into 2 classes
++A) weak one-way hash functions
++B) strong one-way hash functions
+C) weak two-way hash functions
+D) strong two-way hash functions
+E) weak two-way hash functions
+$$$ 141
+Distributed algorithm, i.e. a set of algorithms for each of the participants, plus the specifications of the message formats sent between the participants, plus the specifications for synchronizing the actions of the participants, plus a description of actions in case of errors is called
+A) by signature
++B) protocol
+C) cipher system
+D) electronic signature
+E) RSA algorithm
+$$$ 142 3 верных
+The difference between a protocol and a cryptosystem
+A) ensuring confidentiality
++B) ensuring integrity, ensuring non-traceability
++C) interactivity, having more than two participants
++D) participants do not trust each other; protection not only from the enemy, but also from dishonest actions of partners
+E) providing special key storage
+$$$ 143
+Solve comparison x+5?20(mod18)
+A) x?25(mod18)
++B) x?15(mod18)
+C) x?4(mod18)
+D) x?2(mod18)
+E) x?100(mod18)
+$$$ 144
+Solve the comparison system  
+A) x?4(mod70)
+B) x?8(mod70)
++C) x?13(mod70)
+D) x?9(mod70)
+E) x?18(mod70)
+$$$ 145
+By system RSA known p=2, q=11, public key K=3, find the private key.
+A) 8
+B) 5
+C) 11
++D) 7
+E) 9
+$$$ 146
+Fermat's theorem is expressed by the equality
+A) ap?1(mod p)
+B) ap-2?1(mod p)
+C) ap+1?1(mod p)
++D) ap-1?1(mod p)
+E) ap-1?0(mod p)
+$$$ 147
+Euler's theorem can be written as the equality
++A) a?(m) ? 1(mod m)
+B) am ? 1(mod ?(m))
+C) a2?(m) ? 1(mod m)
+D) a?(m)-1 ? 1(mod m)
+E) a?(m)+1 ? 1(mod m)
+$$$ 148
+If in the RSA cryptosystem K is the public key, k is the secret key, then from which equality can the private key be found, knowing the public key?
+A) K+k ? 1 (mod ?(n))
++B) K*k ? 1 (mod ?(n))
+C) K-k ? 1 (mod ?(n))
+D) K*k ? 1 (mod n)
+E) K+k ? 1 (mod n)
+$$$ 149
+In the RSA cryptosystem, the public key is K = 7. Find the private key k if n = 22.
+A) 5
+B) 7
+C) 4
+D) 11
++E) 3
+$$$ 150
+Solve the comparison system  
+A) x?2(mod 5)
+B) x?3(mod 2)
+C) x?4(mod 7)
++D) x?7(mod 10)
+E) x?5(mod 10)
+$$$ 151
+A and B are remote legitimate users of the protected information, then P Ц
+ 
++A) illegal user
+B) buddy A
+C) buddy B
+D) buddy A and B
+E) outsider
+$$$ 152
+Stream cryptosystems are those in which ...
++A) the whole message is converted at once
+B) the message is converted into blocks of a certain length
+C) the message is converted piece by piece
+D) the message is converted into blocks of different lengths
+E) the message is transformed in halves
+$$$ 153
+Solve comparison 2x+5?19(mod 13)
+A) x?5(mod 13)
++B) x?7(mod 13)
+C) x?1(mod 13)
+D) x?12(mod 13)
+E) x?10(mod 13)
+$$$ 154
+Solve comparison 2x?18(mod 11)
+A) x?5(mod 11)
+B) x?10(mod 11)
+C) x?1(mod 11)
+D) x?12(mod 11)
++E) x? 9(mod 11)
+$$$ 155
+Block ciphers are
+A) imposition on the source text of some pseudo-random sequence generated based on the key
++B) a sequence (with possible repetition and alternation) of basic transformation methods applied to a block of ciphertext
+C) replacing characters of the original text with others of the same alphabet
+D) imposition on the source text of some pseudo-random sequence generated based on the key
+E) Caesar cipher
+$$$ 156 
+Converting ciphertext characters to replacement ciphers
+A) is transformed using a matrix
+B) are rearranged according to some rule within some block of this text
+C) are transformed according to some analytical rule
++D) are replaced by characters of another or the same alphabet in accordance with the replacement scheme.
+E) is transformed using an inverse key matrix
+$$$ 157
+Convert cipher text characters to permutation ciphers
+A) are replaced by symbols of a different or the same alphabet in accordance with the replacement scheme.
+B) is transformed using an inverse key matrix
+C) are transformed according to some analytical rule
+D) is transformed using a matrix
++E) are rearranged according to some rule within some block of this text.
+$$$ 158
+Substitution types used in cryptography
+A) Huffman, Caesar, Playfair
+B) mono-alphabetic, homophonic, polyalphabetic
+C) Markov, homophonic, Playfair
++D) mono-alphabetic, homophonic, polyalphabetic and polygram
+E) Vizhner, Caesar, Playfer, analytical
+$$$ 159
+Principle of mono-alphabet substitution
++A) each letter of the plaintext alphabet is assigned one letter of the ciphertext from the same alphabet.
+B) each letter of the plaintext alphabet is associated with two letters of the ciphertext from the same alphabet.
+C) each letter of the plaintext is assigned a letter with a shift
+D) each letter of the plaintext alphabet is associated with one letter of the key
+E) each plaintext letter is assigned a closedtext letter
+$$$ 160
+The principle of polyalphabetic substitution
+A) each letter of the plaintext alphabet is assigned one letter of the ciphertext from the same alphabet.
+B) each letter of the plaintext alphabet is associated with two letters of the ciphertext from the same alphabet.
+C) uses multiple ciphertext alphabets
++D) maps several ciphertext characters to one plaintext character.
+E) each letter of the plaintext alphabet is associated with one letter of the key
+$$$ 161 
+Cryptographic protocols must protect against the following violations and attackers:
++A) renegade (rejection), repeat
++B) modification (rework)
++C) counterfeit, imitation, active interception
+D) copy
+E) mailing
+$$$ 162
+Conversions that can be used as a one-way function
++A) exponential transformations
+B) sum of matrices
+C) matrix difference
+D) matrix zero multiplication
+E) multiplication by the identity matrix
+$$$ 163 
+Gumming -
+A) replacing characters of the original text with others from the other alphabet
+B) Caesar cipher
+C) replacement of symbols of the source text with others (of the same alphabet) according to a more or less complex rule
+D) imposing on the source text some pseudo-random sequence generated based on the key
++E) imposition on the source text of some pseudo-random sequence generated based on the key
+$$$ 164 
+For which function is the inverse operation computationally time consuming?
+A) straight
+B) bilateral
+C) reverse
++D) unilateral
+E) terminal
+$$$ 165 
+What fact did the creators of RSA take advantage of?
+A) finding large primes is computationally laborious, and factoring the product of two such numbers is practically impossible
++B) finding large primes is computationally easy, but factoring the product of two such numbers is practically impossible
+C) factoring the product of two numbers is easy
+D) finding primes is computationally easy
+E) finding prime divisors is computationally easy
+$$$ 166
+Solve comparison x+2?17(mod18)
+A) x?25(mod18)
++B) x?15(mod18)
+C) x?4(mod18)
+D) x?2(mod18)
+E) x?100(mod18)
+$$$ 167
+Solve the comparison system  
+A) x?4(mod70)
+B) x?8(mod70)
++C) x?13(mod70)
+D) x?9(mod70)
+E) x?18(mod70)
+$$$ 168
+According to the RSA system, the public key K=3, p=2, q=11. What will the private key be?
+A) 8
++B) 7
+C) 11
+D) 5
+E) 9
+$$$ 169
+Solve the comparison system  
+A) x?2(mod 5)
++B) x?7(mod 10)
+C) x?4(mod 7)
+D) x?3(mod 2)
+E) x?5(mod 10)
+$$$ 170 
+In RSA cryptosystem, the private key k=3, n= 22. Find the public key K.
+A) 5
+B) 7
+C) 4
+D) 11
++E) 7
+$$$ 171 
+How is a message transformed in streaming cryptosystems?
++A) the message is converted immediately
+B) the message is converted into blocks of a certain length
+C) the message is converted piece by piece
+D) the message is converted into blocks of different lengths
+E) the message is transformed in halves
+$$$ 172
+In which cryptosystem the message is transformed into blocks of a certain length?
+A) in a streaming cryptosystem
++B) in a block cryptosystem
+C) in the RSA system
+D) in the El Gamal system
+E) in a combined system
+$$$ 173
+Solve comparison 2x?18(mod 13)
+A) x?5(mod 13)
+B) x?1(mod 13)
++C) x?9(mod 13)
+D) x?12(mod 13)
+E) x?10(mod 13)
+$$$ 174
+The RSA algorithm is named -
++A) honoring the creators: Ron Rivest, Adi Shamir and Leonard Adelman
+B) by the name of the algorithm - random number algorithm (Random Seek Acess)
+C) by the name of the algorithm - speed algorithm
+D) random selection of characters
+E) by the name of the company that developed this method
+$$$ 175
+Knowing the public key in the RSA cryptosystem, how can you find the private key?
+A) K+k ? 1 (mod ?(n))
++B) K*k ? 1 (mod ?(n))
+C) K-k ? 1 (mod ?(n))
+D) K*k ? 1 (mod n)
+E) K+k ? 1 (mod n)
+$$$ 176
+What Yi is - in the mono-alphabetic substitution formula:Yi=kl*Xi + k2 (mod N) 
++A) i-th character of the alphabet
+B) constant;
+C) i-th plaintext character;
+D) alphabet length
+E) key length
+$$$ 177
+What Xi is - in the monoalphabetic substitution formula: Yi = kl * Xi + k2 (mod N)
+A) i-th character of the alphabet
+B) constant;
++C) i-th plaintext character;
+D) the length of the alphabet used
+E) key length
+$$$ 178
+Gronsfeld cipher - cipher modification
++A) Caesar's numeric key
+B) Vigenere, for m = 2
+C) Vernam's numeric key
+D) DES numeric key
+E) GOST symbolic key
+$$$ 179
+Vigenere code: yi = xi + ki (mod n), where ki is
++A) i-th letter of the key, which is used as a word or phrase
+B) i-th letter of the alphabet
+C) i-th letter of the key
+D) key
+E) alphabet
+$$$ 180
+With Homophonic Replacement
+A) each letter of the plaintext alphabet is associated with one letter of the ciphertext from the same alphabet
+B) each letter of the plaintext alphabet is associated with two letters of the ciphertext from the same alphabet
+C) each letter of the plaintext is assigned a letter with a shift
+D) each letter of the plaintext alphabet is associated with one letter of the key
++E) maps several ciphertext characters to one plaintext character
+$$$ 181
+With polyalphabetic substitution
+A) each letter of the plaintext alphabet is associated with one letter of the ciphertext from the same alphabet
+B) each letter of the plaintext alphabet is associated with two letters of the ciphertext from the same alphabet
+C) uses multiple ciphertext alphabets
+D) each letter of the plaintext alphabet is associated with one letter of the key
++E) maps several ciphertext characters to one plaintext character
+$$$ 182 In the problem of packing a knapsack, the ciphertext is obtained as
++A) dot product B) cross product
+C) prime power
+D) binary key decomposition
+E) the sum of vectors
+$$$ 183 
+The creators of RSA took advantage of the fact that
++A) finding large primes is computationally easy, but factoring the product of two such numbers is practically impossible
+B) finding large primes is computationally laborious, and factoring the product of two such numbers is practically impossible
+C) factoring the product of two numbers is easy
+D) finding primes is computationally easy
+E) finding prime divisors is computationally easy
+$$$ 184 
+For increased secrecy, the length of the password should be (when the user is forced to set passwords not with a word, but at least with a phrase)
++A) must not be shorter than 12 characters
+B) must not be shorter than 7 characters
+C) must not be shorter than 5 characters
+D) must not be shorter than 4 characters
+E) must be at least 1024 characters
+$$$ 185 
+The alphanumeric key must be
++A) at least 7 characters,
+B) at least 6 characters,
+C) at least 5 characters,
+D) at least 12 characters,
+E) maximum of 7 characters
+$$$ 186
+What are the names of cryptoalgorithms in which the encoding unit is one bit, and the encoding result does not depend on the previously passed input stream:
+A) Blocky
+B) Wildcards
++C) Streaming
+D) Asymmetrical
+E) Permutation
+$$$ 187
+What are the names of the cryptoalgorithms in which the encoding unit is a block of several bytes (from 4 to 32), and the encoding result depends on all the original bytes of this block:
++A) Blocky
+B) Wildcards
+C) Streaming
+D) Asymmetrical
+E) Permutation
+$$$ 188
+The secret system includes
++A) two statistical choices: message selection and key selection
+B) three statistical choices: message choice and key choice, ciphertext choice
+C) message selection
+D) key selection
+E) encryption algorithm
+$$$ 189
+The only key is used in cryptosystems
++A) symmetrical
+B) with public key
+C) asymmetric
+D) with private key
+E) Class D
+$$$ 190 
+Two keys are used in cryptosystems
+A) symmetrical
++B) with public key
+C) asymmetric
+D) with private key
+E) Class D
+$$$ 191
+Which group does the Caesar Cipher belong to -
++A) mono-alphabetic
+B) homophonic
+C) polyalphabetic
+D) polygram
+E) packing the knapsack
+$$$ 192 
+Comparison is given ax?b(mod m). Please enter an invalid equality.
+A) 2ax?2b(mod m)
++B) 3ax?b(mod m)
+C) ax+c?b+c(mod m)
+D) ax?b+m*k(mod m)
+E) ax+m?b(mod m)
+$$$ 193
+The most popular public key encryption algorithms are
++A) PGP и RSA
+B) PGP и DES
+C) RSA и DES
+D) Gost и DES
+E) Gost
+$$$ 194  
+Solve the comparison system  
+A) x?1(mod 5)
+B) x?5(mod 10)
+C) x?4(mod 7)
+D) x?13(mod 2)
++E) x?7(mod 10)
+$$$ 195
+The process of breaking a cipher without knowing the key (checking the strength of the cipher):
+A) Code
+B) Cryptography
+C) Coding
++D) Cryptanalysis
+E) Key
+$$$ 196
+The specific secret state of some parameters of the cryptographic data transformation algorithm, which ensures the selection of only one option out of all possible for this algorithm:
+A) Code
+B) Cryptography
+C) Coding
+D) Cryptanalysis
++E) Key
+$$$ 197
+The first stage in the work of any asymmetric cryptoalgorithm is:
+A) Distributing the public key "worldwide"
+B) Message encryption
+C) Decrypting the message
++D) Create a key pair: public and private
+E) Message transmission
+$$$ 198
+The basis for creating keys for any asymmetric cryptoalgorithm are:
+A) Differentiating the message length value
+B) Logarithm of the message length
+C) Bijective mathematical functions
+D) Third order equations
++E) Prime numbers and operations on them
+$$$ 199
+The main idea of asymmetric cryptoalgorithms:
+A) Session key is used to encrypt plaintext
++B) One key is used to encrypt a message, and another key is used when decrypting a message
+C) The same key is used for both encrypting and decrypting the message
+D) Knowing the public key, you can calculate the private key
+E) The encryption procedure is reversible
+$$$ 200
+Solve the comparison system  
++A) x?125(mod 1496)
+B) x?125 (mod 1494)
+C) x?125(mod 1498)
+D) x?125(mod 1499)
+E) x?125(mod 1490)
+
+$$$ end
+
